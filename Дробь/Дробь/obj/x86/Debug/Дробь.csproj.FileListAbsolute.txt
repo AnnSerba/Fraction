@@ -1,0 +1,4 @@
+C:\Users\Аня\AppData\Local\Temporary Projects\Дробь\bin\Debug\Дробь.exe
+C:\Users\Аня\AppData\Local\Temporary Projects\Дробь\bin\Debug\Дробь.pdb
+C:\Users\Аня\AppData\Local\Temporary Projects\Дробь\obj\x86\Debug\Дробь.exe
+C:\Users\Аня\AppData\Local\Temporary Projects\Дробь\obj\x86\Debug\Дробь.pdb
